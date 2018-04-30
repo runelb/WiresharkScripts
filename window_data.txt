@@ -1,0 +1,5185 @@
+2a01:578:3::364c:bab3
+average RTT: 41.19999999999982
+IPv6, HTTPS
+average initial window size over restarted connections: 9.86111111111111 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.86111111111111 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 38.72400000000016
+truly initial window size: 9.86111111111111
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1420
+
+
+2a01:578:3::2e33:ccfb
+average RTT: 40.51280000000006
+IPv6, HTTPS
+average initial window size over restarted connections: 9.566567460317462 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.86111111111111 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 40.33400000000074
+truly initial window size: 9.86111111111111
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1420
+
+
+54.230.9.178
+average RTT: 30.728000000000065
+IPv4, HTTPS
+average initial window size over restarted connections: 24.93904109589041 MSS
+rounded average initial window size over restarted connections: 25 MSS
+largest initial window: 24.93904109589041 MSS
+rounded largest initial window: 25 MSS
+truly initial window RTT: 29.978000000000065
+truly initial window size: 24.93904109589041
+rounded truly initial window size: 25
+where MSS = 1460
+
+truly initial window size: 24.93904109589041
+rounded truly initial window size: 25
+where MSS = 1460
+
+
+104.82.239.15
+average RTT: 27.95049999999992
+IPv4, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.645000000000437
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+52.37.97.236
+average RTT: 180.50800000000072
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 176.20899999999892
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a00:1450:4009:80b::2003
+average RTT: 31.445678571429003
+IPv6, HTTPS
+average initial window size over restarted connections: 11.742361111111112 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.86111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 30.79800000000978
+truly initial window size: 11.623611111111112
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.719672131147542
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+2a00:1450:4009:80b::200e
+average RTT: 30.861343750000856
+IPv6, HTTPS
+average initial window size over restarted connections: 12.050868055555554 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 30.07600000000093
+truly initial window size: 11.01388888888889
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 13.0
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+2a00:1450:4009:80b::2004
+average RTT: 30.97005405405277
+IPv6, HTTPS
+average initial window size over restarted connections: 11.86111111111111 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.86111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 29.877999999996973
+truly initial window size: 11.86111111111111
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 14.0
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+2a00:1450:4009:801::200e
+average RTT: 31.41521886792771
+IPv6, HTTPS
+average initial window size over restarted connections: 12.109606481481483 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 29.998999999836087
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+2a00:1450:4009:800::2003
+average RTT: 30.860239999972983
+IPv6, HTTPS
+average initial window size over restarted connections: 11.742361111111112 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.86111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 32.13699999987148
+truly initial window size: 11.623611111111112
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.719672131147542
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+2a00:1450:4009:800::200e
+average RTT: 31.249404166658497
+IPv6, HTTPS
+average initial window size over restarted connections: 11.71796171171171 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 29.376000000000204
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+2a00:1450:4009:800::200d
+average RTT: 30.97907432432847
+IPv6, HTTPS
+average initial window size over restarted connections: 11.027203525641026 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.840277777777779 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 31.65099999999802
+truly initial window size: 10.42361111111111
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.30327868852459
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+2a03:2880:f11a:83:face:b00c:0:25de
+average RTT: 31.47382758620006
+IPv6, HTTPS
+average initial window size over restarted connections: 9.000925925925925 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.197916666666666 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 31.719000000040978
+truly initial window size: 9.188194444444445
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 9.38368794326241
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+2a03:2880:f01a:1:face:b00c:0:1
+average RTT: 31.716569444443344
+IPv6, HTTPS
+average initial window size over restarted connections: 9.028600146198828 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.133333333333333 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 30.45300000000134
+truly initial window size: 9.077777777777778
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 9.270921985815603
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+2a00:1450:4009:80b::2013
+average RTT: 30.333499999997002
+IPv6, HTTPS
+average initial window size over restarted connections: 9.38888888888889 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 10.478472222222223 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 30.35399999999936
+truly initial window size: 8.299305555555556
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 9.795901639344262
+rounded truly initial window size: 10
+where MSS = 1220
+
+
+2a00:1450:4009:80b::2011
+average RTT: 30.61390000000465
+IPv6, HTTPS
+average initial window size over restarted connections: 10.74224537037037 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.586805555555555 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 30.139999999999418
+truly initial window size: 11.586805555555555
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.676229508196721
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+2a00:1450:4009:800::2001
+average RTT: 38.63990000000122
+IPv6, HTTPS
+average initial window size over restarted connections: 8.050694444444444 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.050694444444444 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 30.26799999999639
+truly initial window size: 8.050694444444444
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 9.502459016393443
+rounded truly initial window size: 10
+where MSS = 1220
+
+
+104.244.42.193
+average RTT: 29.99626315780494
+IPv4, HTTPS
+average initial window size over restarted connections: 7.13107098381071 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 8.043150684931506 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 27.211999999999534
+truly initial window size: 7.868493150684931
+rounded truly initial window size: 8
+where MSS = 1460
+
+truly initial window size: 7.868493150684931
+rounded truly initial window size: 8
+where MSS = 1460
+
+
+2a00:1450:400c:c04::66
+average RTT: 37.02149999995163
+IPv6, HTTPS
+average initial window size over restarted connections: 12.708333333333334 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 35.93000000000029
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+2a00:1450:4009:800::2004
+average RTT: 31.013874999992627
+IPv6, HTTPS
+average initial window size over restarted connections: 11.106944444444444 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.2 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 30.277999999932945
+truly initial window size: 11.01388888888889
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 13.0
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+2a00:1450:4009:800::2011
+average RTT: 31.13327083334813
+IPv6, HTTPS
+average initial window size over restarted connections: 10.561319444444447 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.303472222222222 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 29.777999999991152
+truly initial window size: 10.436111111111112
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.318032786885245
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+2a00:1450:4009:80b::2001
+average RTT: 30.58075000000099
+IPv6, HTTPS
+average initial window size over restarted connections: 9.710416666666667 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.710416666666667 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 32.036999999996624
+truly initial window size: 9.710416666666667
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 11.461475409836066
+rounded truly initial window size: 11
+where MSS = 1220
+
+
+2a02:26f0:a1:292::139c
+average RTT: 28.668133333312774
+IPv6, HTTPS
+average initial window size over restarted connections: 14.0 MSS
+rounded average initial window size over restarted connections: 14 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 28.8920000000071
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+2a00:1450:4009:806::2011
+average RTT: 31.481666666668996
+IPv6, HTTPS
+average initial window size over restarted connections: 11.586805555555555 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.586805555555555 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 32.21500000031665
+truly initial window size: 11.586805555555555
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.676229508196721
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+2a00:1450:4009:800::2013
+average RTT: 31.043666666727706
+IPv6, HTTPS
+average initial window size over restarted connections: 10.276851851851852 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.615277777777777 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 30.753000000011525
+truly initial window size: 10.458333333333334
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.344262295081966
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+2a02:26f0:8e:299::1aca
+average RTT: 31.704499999948894
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.72500000000582
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+104.82.89.220
+average RTT: 28.859142857071543
+IPv4, HTTPS
+average initial window size over restarted connections: 15.392563600782779 MSS
+rounded average initial window size over restarted connections: 15 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.84299999999348
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+2a02:26f0:8e:290::2a1
+average RTT: 32.440500000001826
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.99900000001071
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+104.82.229.54
+average RTT: 35.92149999994823
+IPv4, HTTPS
+average initial window size over restarted connections: 13.25 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 28.331999999994878
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+2a00:1450:4009:806::200e
+average RTT: 32.29046153840654
+IPv6, HTTPS
+average initial window size over restarted connections: 11.733333333333333 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.733333333333333 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 30.654000000096858
+truly initial window size: 11.733333333333333
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.849180327868853
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+2a00:1450:400c:c04::65
+average RTT: 38.40050000003248
+IPv6, HTTPS
+average initial window size over restarted connections: 12.708333333333334 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 37.853999999992084
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+54.239.26.209
+average RTT: 106.02479666666555
+IPv4, HTTPS
+average initial window size over restarted connections: 17.504109589041096 MSS
+rounded average initial window size over restarted connections: 18 MSS
+largest initial window: 17.504109589041096 MSS
+rounded largest initial window: 18 MSS
+truly initial window RTT: 104.54700000002049
+truly initial window size: 17.504109589041096
+rounded truly initial window size: 18
+where MSS = 1460
+
+truly initial window size: 17.504109589041096
+rounded truly initial window size: 18
+where MSS = 1460
+
+
+54.239.31.129
+average RTT: 106.1163257575798
+IPv4, HTTPS
+average initial window size over restarted connections: 16.61935734160959 MSS
+rounded average initial window size over restarted connections: 17 MSS
+largest initial window: 19.198630136986303 MSS
+rounded largest initial window: 19 MSS
+truly initial window RTT: 103.77799999999115
+truly initial window size: 17.204794520547946
+rounded truly initial window size: 17
+where MSS = 1460
+
+truly initial window size: 17.204794520547946
+rounded truly initial window size: 17
+where MSS = 1460
+
+
+2a00:1450:4009:80a::200e
+average RTT: 32.148928571525694
+IPv6, HTTPS
+average initial window size over restarted connections: 12.383333333333333 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 30.179000000003725
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+54.240.249.221
+average RTT: 188.4560000000056
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 188.4560000000056
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+54.239.31.69
+average RTT: 107.47833419689373
+IPv4, HTTPS
+average initial window size over restarted connections: 17.263723159364485 MSS
+rounded average initial window size over restarted connections: 17 MSS
+largest initial window: 20.47876712328767 MSS
+rounded largest initial window: 20 MSS
+truly initial window RTT: 104.54500000004191
+truly initial window size: 18.18013698630137
+rounded truly initial window size: 18
+where MSS = 1460
+
+truly initial window size: 18.18013698630137
+rounded truly initial window size: 18
+where MSS = 1460
+
+
+34.230.182.210
+average RTT: 113.92639999990351
+IPv4, HTTPS
+average initial window size over restarted connections: 1.7919520547945205 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 1.9972602739726026 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 109.41099999996368
+truly initial window size: 1.9972602739726026
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 1.9972602739726026
+rounded truly initial window size: 2
+where MSS = 1460
+
+
+2a00:1450:4009:810::200e
+average RTT: 31.73175000003539
+IPv6, HTTPS
+average initial window size over restarted connections: 12.030555555555557 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 30.036000000312924
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+54.239.23.208
+average RTT: 109.59200000000419
+IPv4, HTTPS
+average initial window size over restarted connections: 17.016438356164382 MSS
+rounded average initial window size over restarted connections: 17 MSS
+largest initial window: 17.016438356164382 MSS
+rounded largest initial window: 17 MSS
+truly initial window RTT: 109.37599999993108
+truly initial window size: 17.016438356164382
+rounded truly initial window size: 17
+where MSS = 1460
+
+truly initial window size: 17.016438356164382
+rounded truly initial window size: 17
+where MSS = 1460
+
+
+2a00:1450:4009:810::2004
+average RTT: 32.33830769231113
+IPv6, HTTPS
+average initial window size over restarted connections: 11.86111111111111 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.86111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 29.609999999403954
+truly initial window size: 11.86111111111111
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 14.0
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+176.32.98.189
+average RTT: 123.11072413792738
+IPv4, HTTPS
+average initial window size over restarted connections: 16.349771689497715 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 17.016438356164382 MSS
+rounded largest initial window: 17 MSS
+truly initial window RTT: 125.35200000007171
+truly initial window size: 17.016438356164382
+rounded truly initial window size: 17
+where MSS = 1460
+
+truly initial window size: 17.016438356164382
+rounded truly initial window size: 17
+where MSS = 1460
+
+
+162.242.198.235
+average RTT: 106.83100000000559
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 106.83100000000559
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2606:2800:234:9f9:e6a:1ade:3a9:26d9
+average RTT: 36.839999999967404
+IPv6, HTTPS
+average initial window size over restarted connections: 1.692361111111111 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 1.7972222222222223 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 31.413999999989755
+truly initial window size: 1.5875
+rounded truly initial window size: 2
+where MSS = 1440
+
+truly initial window size: 1.8737704918032787
+rounded truly initial window size: 2
+where MSS = 1220
+
+
+23.212.233.124
+average RTT: 29.078500000061467
+IPv4, HTTP
+average initial window size over restarted connections: 3.1308219178082193 MSS
+rounded average initial window size over restarted connections: 3 MSS
+largest initial window: 3.1308219178082193 MSS
+rounded largest initial window: 3 MSS
+truly initial window RTT: 29.25900000007823
+truly initial window size: 3.1308219178082193
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.1308219178082193
+rounded truly initial window size: 3
+where MSS = 1460
+
+
+2a02:26f0:db:29d::29a7
+average RTT: 29.105249999964144
+IPv6, HTTPS
+average initial window size over restarted connections: 1.2211805555555557 MSS
+rounded average initial window size over restarted connections: 1 MSS
+largest initial window: 1.2222222222222223 MSS
+rounded largest initial window: 1 MSS
+truly initial window RTT: 27.020000000018626
+truly initial window size: 1.2222222222222223
+rounded truly initial window size: 1
+where MSS = 1440
+
+truly initial window size: 1.2222222222222223
+rounded truly initial window size: 1
+where MSS = 1440
+
+
+2.21.189.225
+average RTT: 27.61599999992177
+IPv4, HTTP
+average initial window size over restarted connections: 1.0075342465753425 MSS
+rounded average initial window size over restarted connections: 1 MSS
+largest initial window: 1.0075342465753425 MSS
+rounded largest initial window: 1 MSS
+truly initial window RTT: 27.61599999992177
+truly initial window size: 1.0075342465753425
+rounded truly initial window size: 1
+where MSS = 1460
+
+truly initial window size: 1.0075342465753425
+rounded truly initial window size: 1
+where MSS = 1460
+
+
+2a00:1450:4009:80f::200e
+average RTT: 31.90314942529029
+IPv6, HTTPS
+average initial window size over restarted connections: 11.560833333333335 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 30.286000000080094
+truly initial window size: 8.472222222222221
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1220
+
+
+54.239.24.117
+average RTT: 106.98849999997765
+IPv4, HTTPS
+average initial window size over restarted connections: 10.01095890410959 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.01095890410959 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 104.01300000003539
+truly initial window size: 10.01095890410959
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.01095890410959
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+54.225.121.9
+average RTT: 105.43900000001304
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 105.43900000001304
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+157.166.239.86
+average RTT: 113.49200000008568
+IPv4, HTTP
+average initial window size over restarted connections: 3.000684931506849 MSS
+rounded average initial window size over restarted connections: 3 MSS
+largest initial window: 3.000684931506849 MSS
+rounded largest initial window: 3 MSS
+truly initial window RTT: 113.49200000008568
+truly initial window size: 3.000684931506849
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.000684931506849
+rounded truly initial window size: 3
+where MSS = 1460
+
+
+54.230.9.116
+average RTT: 30.3106666666766
+IPv4, HTTPS
+average initial window size over restarted connections: 24.11849315068493 MSS
+rounded average initial window size over restarted connections: 24 MSS
+largest initial window: 24.11849315068493 MSS
+rounded largest initial window: 24 MSS
+truly initial window RTT: 30.26699999999255
+truly initial window size: 24.11849315068493
+rounded truly initial window size: 24
+where MSS = 1460
+
+truly initial window size: 24.11849315068493
+rounded truly initial window size: 24
+where MSS = 1460
+
+
+151.101.64.68
+average RTT: 28.25800000014715
+IPv4, HTTP
+average initial window size over restarted connections: 9.712328767123287 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.712328767123287 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 28.25800000014715
+truly initial window size: 9.712328767123287
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+104.244.42.1
+average RTT: 28.16733333331843
+IPv4, HTTPS
+average initial window size over restarted connections: 7.4553082191780815 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 8.184931506849315 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 27.371999999973923
+truly initial window size: 6.868493150684931
+rounded truly initial window size: 7
+where MSS = 1460
+
+truly initial window size: 6.868493150684931
+rounded truly initial window size: 7
+where MSS = 1460
+
+
+2a00:1450:4009:80c::200e
+average RTT: 30.842333333333954
+IPv6, HTTPS
+average initial window size over restarted connections: 6.7910416666666675 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 29.958000000100583
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+204.79.197.229
+average RTT: 30.134999999892898
+IPv4, HTTP
+average initial window size over restarted connections: 10.28972602739726 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.28972602739726 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 28.57300000009127
+truly initial window size: 10.28972602739726
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.28972602739726
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+204.79.197.203
+average RTT: 31.189500000036787
+IPv4, HTTP
+average initial window size over restarted connections: 9.232420091324201 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 12.028767123287672 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 30.22400000016205
+truly initial window size: 12.028767123287672
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 12.028767123287672
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+2620:1ec:a92::156
+average RTT: 29.457999999934277
+IPv6, HTTPS
+average initial window size over restarted connections: 19.319444444444443 MSS
+rounded average initial window size over restarted connections: 19 MSS
+largest initial window: 19.319444444444443 MSS
+rounded largest initial window: 19 MSS
+truly initial window RTT: 29.428000000305474
+truly initial window size: 19.319444444444443
+rounded truly initial window size: 19
+where MSS = 1440
+
+truly initial window size: 19.319444444444443
+rounded truly initial window size: 19
+where MSS = 1440
+
+
+2a01:111:f100:a004::bfeb:88cf
+average RTT: 37.8933333332728
+IPv6, HTTPS
+average initial window size over restarted connections: 11.738333333333333 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.886111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 37.45799999986775
+truly initial window size: 11.840277777777779
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 11.840277777777779
+rounded truly initial window size: 12
+where MSS = 1440
+
+
+52.109.28.0
+average RTT: 30.13733333331119
+IPv4, HTTPS
+average initial window size over restarted connections: 6.0 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 29.094000000040978
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+52.109.12.51
+average RTT: 104.01499999989755
+IPv4, HTTPS
+average initial window size over restarted connections: 6.0 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 104.01499999989755
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+204.79.197.217
+average RTT: 29.046000000011798
+IPv4, HTTPS
+average initial window size over restarted connections: 17.996575342465754 MSS
+rounded average initial window size over restarted connections: 18 MSS
+largest initial window: 17.996575342465754 MSS
+rounded largest initial window: 18 MSS
+truly initial window RTT: 28.74600000004284
+truly initial window size: 17.996575342465754
+rounded truly initial window size: 18
+where MSS = 1460
+
+truly initial window size: 17.996575342465754
+rounded truly initial window size: 18
+where MSS = 1460
+
+
+2a00:1288:110:1c::4
+average RTT: 39.72550000002957
+IPv6, HTTPS
+average initial window size over restarted connections: 5.127281746031747 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 7.294444444444444 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 40.415999999968335
+truly initial window size: 3.410416666666667
+rounded truly initial window size: 3
+where MSS = 1440
+
+truly initial window size: 4.025409836065574
+rounded truly initial window size: 4
+where MSS = 1220
+
+
+2a00:1288:7c:800::4001
+average RTT: 30.72200000002049
+IPv6, HTTPS
+average initial window size over restarted connections: 5.635243055555556 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 8.472222222222221 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 31.625999999931082
+truly initial window size: 2.841666666666667
+rounded truly initial window size: 3
+where MSS = 1440
+
+truly initial window size: 3.3540983606557377
+rounded truly initial window size: 3
+where MSS = 1220
+
+
+2001:4998:58:210::2000
+average RTT: 109.00133333339666
+IPv6, HTTPS
+average initial window size over restarted connections: 8.012037037037038 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.120833333333334 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 108.95600000000559
+truly initial window size: 8.036805555555556
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 9.486065573770492
+rounded truly initial window size: 9
+where MSS = 1220
+
+
+2a00:1288:110:c104::6000
+average RTT: 41.11163829785197
+IPv6, HTTPS
+average initial window size over restarted connections: 5.981691919191918 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.2131944444444445 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 40.10399999981746
+truly initial window size: 6.195833333333334
+rounded truly initial window size: 6
+where MSS = 1440
+
+truly initial window size: 7.31311475409836
+rounded truly initial window size: 7
+where MSS = 1220
+
+
+87.248.114.12
+average RTT: 30.83891666663112
+IPv4, HTTPS
+average initial window size over restarted connections: 7.7390410958904114 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 31.661999999778345
+truly initial window size: 5.795890410958904
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 5.795890410958904
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+2a00:1288:7c:800::4000
+average RTT: 30.656285714274937
+IPv6, HTTPS
+average initial window size over restarted connections: 6.445833333333333 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 8.472222222222221 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 31.71099999989383
+truly initial window size: 1.35
+rounded truly initial window size: 1
+where MSS = 1440
+
+truly initial window size: 1.5934426229508196
+rounded truly initial window size: 2
+where MSS = 1220
+
+
+2a00:1288:110:c104::3000
+average RTT: 40.084000000031665
+IPv6, HTTPS
+average initial window size over restarted connections: 7.968055555555556 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 7.968055555555556 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 38.86500000022352
+truly initial window size: 7.968055555555556
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 9.404918032786885
+rounded truly initial window size: 9
+where MSS = 1220
+
+
+66.6.33.149
+average RTT: 107.60400000005029
+IPv4, HTTP
+average initial window size over restarted connections: 9.437671232876712 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.437671232876712 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 107.60400000005029
+truly initial window size: 9.437671232876712
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.437671232876712
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+66.6.33.21
+average RTT: 108.95600000000559
+IPv4, HTTPS
+average initial window size over restarted connections: 9.66095890410959 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.66095890410959 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 107.74500000011176
+truly initial window size: 9.66095890410959
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.66095890410959
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2400:cb00:2048:1::6810:5f41
+average RTT: 32.04700000002049
+IPv6, HTTPS
+average initial window size over restarted connections: 6.301388888888889 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.301388888888889 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 31.73699999996461
+truly initial window size: 6.301388888888889
+rounded truly initial window size: 6
+where MSS = 1440
+
+truly initial window size: 7.437704918032787
+rounded truly initial window size: 7
+where MSS = 1220
+
+
+2a00:1450:4009:811::200e
+average RTT: 32.226000000024214
+IPv6, HTTPS
+average initial window size over restarted connections: 10.623611111111112 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 10.623611111111112 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 31.212999999988824
+truly initial window size: 10.623611111111112
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 12.539344262295081
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+40.115.34.155
+average RTT: 37.42184615384143
+IPv4, HTTPS
+average initial window size over restarted connections: 6.0 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 36.57700000004843
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+2a02:26f0:a1:280::356e
+average RTT: 28.162888888890546
+IPv6, HTTPS
+average initial window size over restarted connections: 15.319791666666667 MSS
+rounded average initial window size over restarted connections: 15 MSS
+largest initial window: 15.32013888888889 MSS
+rounded largest initial window: 15 MSS
+truly initial window RTT: 28.2249999998603
+truly initial window size: 15.319444444444445
+rounded truly initial window size: 15
+where MSS = 1440
+
+truly initial window size: 15.319444444444445
+rounded truly initial window size: 15
+where MSS = 1440
+
+
+2.21.188.246
+average RTT: 27.92160000009462
+IPv4, HTTPS
+average initial window size over restarted connections: 15.892636986301369 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.18500000005588
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+51.140.59.233
+average RTT: 30.05799999991432
+IPv4, HTTPS
+average initial window size over restarted connections: 11.947945205479451 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.454109589041096 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 29.350999999791384
+truly initial window size: 11.69041095890411
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 11.69041095890411
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+151.101.61.83
+average RTT: 28.061499999952503
+IPv4, HTTPS
+average initial window size over restarted connections: 9.646575342465754 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.646575342465754 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 27.549999999813735
+truly initial window size: 9.646575342465754
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.932299012693935
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+104.81.0.218
+average RTT: 29.617499999934807
+IPv4, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 28.45699999993667
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+23.64.40.216
+average RTT: 32.118999999947846
+IPv4, HTTPS
+average initial window size over restarted connections: 15.705136986301369 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.73700000019744
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+23.212.233.4
+average RTT: 27.711999999941327
+IPv4, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 28.042000000132248
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+131.253.61.100
+average RTT: 170.86449999998635
+IPv4, HTTPS
+average initial window size over restarted connections: 6.0 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 170.6459999999497
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+40.112.64.18
+average RTT: 38.76525000005495
+IPv4, HTTPS
+average initial window size over restarted connections: 13.0 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 13.0 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 38.37199999997392
+truly initial window size: 13.0
+rounded truly initial window size: 13
+where MSS = 1460
+
+truly initial window size: 13.0
+rounded truly initial window size: 13
+where MSS = 1460
+
+
+52.21.156.1
+average RTT: 107.01166666667753
+IPv4, HTTPS
+average initial window size over restarted connections: 1.9972602739726029 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 1.9972602739726026 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 105.8550000002142
+truly initial window size: 1.9972602739726026
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 1.9972602739726026
+rounded truly initial window size: 2
+where MSS = 1460
+
+
+2606:2800:133:206e:1315:22a5:2006:24fd
+average RTT: 32.38699999987148
+IPv6, HTTPS
+average initial window size over restarted connections: 10.499305555555555 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.499305555555555 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 31.351999999955297
+truly initial window size: 10.499305555555555
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.392622950819671
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+2a02:26f0:a1:287::356e
+average RTT: 27.869000000025455
+IPv6, HTTPS
+average initial window size over restarted connections: 13.553935185185184 MSS
+rounded average initial window size over restarted connections: 14 MSS
+largest initial window: 15.319444444444445 MSS
+rounded largest initial window: 15 MSS
+truly initial window RTT: 27.622999999905005
+truly initial window size: 14.32013888888889
+rounded truly initial window size: 14
+where MSS = 1440
+
+truly initial window size: 14.32013888888889
+rounded truly initial window size: 14
+where MSS = 1440
+
+
+13.81.104.30
+average RTT: 36.08700000005774
+IPv4, HTTPS
+average initial window size over restarted connections: 12.087671232876712 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.087671232876712 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 35.70999999996275
+truly initial window size: 12.087671232876712
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 12.087671232876712
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+104.244.42.129
+average RTT: 28.038833333324874
+IPv4, HTTPS
+average initial window size over restarted connections: 7.955821917808219 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.043150684931506 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 27.31400000001304
+truly initial window size: 7.868493150684931
+rounded truly initial window size: 8
+where MSS = 1460
+
+truly initial window size: 7.868493150684931
+rounded truly initial window size: 8
+where MSS = 1460
+
+
+2a00:1450:4009:812::200e
+average RTT: 32.69700000016019
+IPv6, HTTPS
+average initial window size over restarted connections: 12.708333333333334 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 32.14299999992363
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+104.46.51.148
+average RTT: 37.75
+IPv4, HTTPS
+average initial window size over restarted connections: 11.794520547945206 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.794520547945206 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 37.1500000001397
+truly initial window size: 11.794520547945206
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 11.794520547945206
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+131.253.61.96
+average RTT: 170.54574999997567
+IPv4, HTTPS
+average initial window size over restarted connections: 5.5 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 169.44699999992736
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+104.80.253.138
+average RTT: 28.56000000005588
+IPv4, HTTPS
+average initial window size over restarted connections: 15.274657534246575 MSS
+rounded average initial window size over restarted connections: 15 MSS
+largest initial window: 15.274657534246575 MSS
+rounded largest initial window: 15 MSS
+truly initial window RTT: 28.56000000005588
+truly initial window size: 15.274657534246575
+rounded truly initial window size: 15
+where MSS = 1460
+
+truly initial window size: 15.274657534246575
+rounded truly initial window size: 15
+where MSS = 1460
+
+
+157.56.148.19
+average RTT: 119.38300000014715
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 119.17999999993481
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+157.56.148.23
+average RTT: 119.85499999998137
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 119.85499999998137
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+23.64.45.166
+average RTT: 32.47100000013597
+IPv4, HTTPS
+average initial window size over restarted connections: 10.419178082191781 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.419178082191781 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 31.601999999955297
+truly initial window size: 10.419178082191781
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.419178082191781
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+65.52.210.213
+average RTT: 120.62000000011176
+IPv4, HTTPS
+average initial window size over restarted connections: 6.0 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 120.62000000011176
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+52.224.109.124
+average RTT: 101.80400000000373
+IPv4, HTTPS
+average initial window size over restarted connections: 11.0 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.0 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 101.77700000000186
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1460
+
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1460
+
+
+149.126.74.121
+average RTT: 29.881999999983236
+IPv4, HTTPS
+average initial window size over restarted connections: 6.189041095890411 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.189041095890411 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 29.98200000007637
+truly initial window size: 6.189041095890411
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.189041095890411
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+2a03:2880:f01a:5:face:b00c:0:1
+average RTT: 31.061470588258302
+IPv6, HTTPS
+average initial window size over restarted connections: 9.203472222222222 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.95138888888889 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 31.17200000025332
+truly initial window size: 8.984027777777778
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 9.175177304964539
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+2a02:26f0:8e:29c::1aca
+average RTT: 32.17620000001043
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.579000000143424
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+2a02:26f0:8e:295::2a1
+average RTT: 32.118999999947846
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.518999999854714
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+2620:0:862:ed1a::2:b
+average RTT: 37.21699999994598
+IPv6, HTTPS
+average initial window size over restarted connections: 9.613888888888889 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.613888888888889 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 36.16800000006333
+truly initial window size: 9.613888888888889
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 9.613888888888889
+rounded truly initial window size: 10
+where MSS = 1440
+
+
+104.82.138.143
+average RTT: 63.8566666666884
+IPv4, HTTPS
+average initial window size over restarted connections: 5.4182648401826485 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 28.888999999966472
+truly initial window size: 5.127397260273972
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 5.127397260273972
+rounded truly initial window size: 5
+where MSS = 1460
+
+
+2a00:1450:4009:801::2001
+average RTT: 31.695047619054094
+IPv6, HTTPS
+average initial window size over restarted connections: 8.050694444444444 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.050694444444444 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 30.070000000298023
+truly initial window size: 8.050694444444444
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 9.502459016393443
+rounded truly initial window size: 10
+where MSS = 1220
+
+
+104.244.42.3
+average RTT: 29.886499999964144
+IPv4, HTTPS
+average initial window size over restarted connections: 6.948972602739726 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 8.449315068493151 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 27.48699999996461
+truly initial window size: 5.448630136986301
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 5.448630136986301
+rounded truly initial window size: 5
+where MSS = 1460
+
+
+104.244.42.131
+average RTT: 28.531999999967713
+IPv4, HTTPS
+average initial window size over restarted connections: 8.745205479452055 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 8.745205479452055 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 28.96999999997206
+truly initial window size: 8.745205479452055
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 8.745205479452055
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+104.244.42.6
+average RTT: 27.989999999990687
+IPv4, HTTPS
+average initial window size over restarted connections: 7.227397260273973 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 7.227397260273973 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 27.295999999856576
+truly initial window size: 7.227397260273973
+rounded truly initial window size: 7
+where MSS = 1460
+
+truly initial window size: 7.227397260273973
+rounded truly initial window size: 7
+where MSS = 1460
+
+
+104.244.42.67
+average RTT: 27.84000000002561
+IPv4, HTTPS
+average initial window size over restarted connections: 7.8180365296803656 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.447945205479453 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 27.835000000195578
+truly initial window size: 7.448630136986301
+rounded truly initial window size: 7
+where MSS = 1460
+
+truly initial window size: 7.448630136986301
+rounded truly initial window size: 7
+where MSS = 1460
+
+
+2a00:1450:4009:807::200e
+average RTT: 30.80025000005844
+IPv6, HTTPS
+average initial window size over restarted connections: 6.700694444444444 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 30.121999999973923
+truly initial window size: 4.714583333333334
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.564754098360655
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+2a02:26f0:a1:29d::139c
+average RTT: 28.756333333284903
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.859999999869615
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+2a00:1450:4009:801::2011
+average RTT: 31.19331250002142
+IPv6, HTTPS
+average initial window size over restarted connections: 10.770833333333334 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.377777777777778 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 30.080999999772757
+truly initial window size: 10.436111111111112
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.318032786885245
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+212.73.228.29
+average RTT: 38.06750000000466
+IPv4, HTTPS
+average initial window size over restarted connections: 5.136986301369863 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 5.136986301369863 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 37.20800000010058
+truly initial window size: 5.136986301369863
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 5.136986301369863
+rounded truly initial window size: 5
+where MSS = 1460
+
+
+23.212.232.208
+average RTT: 27.545999999985927
+IPv4, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.162999999942258
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+2a02:26f0:a1:286::356e
+average RTT: 27.648999999975786
+IPv6, HTTPS
+average initial window size over restarted connections: 15.319444444444445 MSS
+rounded average initial window size over restarted connections: 15 MSS
+largest initial window: 15.319444444444445 MSS
+rounded largest initial window: 15 MSS
+truly initial window RTT: 27.41300000017509
+truly initial window size: 15.319444444444445
+rounded truly initial window size: 15
+where MSS = 1440
+
+truly initial window size: 15.319444444444445
+rounded truly initial window size: 15
+where MSS = 1440
+
+
+2a00:1450:4009:801::2003
+average RTT: 31.413499999920734
+IPv6, HTTPS
+average initial window size over restarted connections: 11.86111111111111 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.86111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 30.187999999616295
+truly initial window size: 11.86111111111111
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 14.0
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+52.29.23.140
+average RTT: 41.317000000039116
+IPv4, HTTPS
+average initial window size over restarted connections: 6.639041095890411 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 6.639041095890411 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 40.70200000004843
+truly initial window size: 6.639041095890411
+rounded truly initial window size: 7
+where MSS = 1460
+
+truly initial window size: 6.639041095890411
+rounded truly initial window size: 7
+where MSS = 1460
+
+
+40.112.143.134
+average RTT: 170.44250000000466
+IPv4, HTTPS
+average initial window size over restarted connections: 12.921917808219177 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.921917808219177 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 170.50500000012107
+truly initial window size: 12.921917808219177
+rounded truly initial window size: 13
+where MSS = 1460
+
+truly initial window size: 12.921917808219177
+rounded truly initial window size: 13
+where MSS = 1460
+
+
+165.193.78.252
+average RTT: 104.1524999999674
+IPv4, HTTP
+average initial window size over restarted connections: 4.0 MSS
+rounded average initial window size over restarted connections: 4 MSS
+largest initial window: 4.0 MSS
+rounded largest initial window: 4 MSS
+truly initial window RTT: 103.92200000002049
+truly initial window size: 4.0
+rounded truly initial window size: 4
+where MSS = 1460
+
+truly initial window size: 4.0
+rounded truly initial window size: 4
+where MSS = 1460
+
+
+165.193.78.229
+average RTT: 104.71699999994598
+IPv4, HTTP
+average initial window size over restarted connections: 4.0 MSS
+rounded average initial window size over restarted connections: 4 MSS
+largest initial window: 4.0 MSS
+rounded largest initial window: 4 MSS
+truly initial window RTT: 104.71699999994598
+truly initial window size: 4.0
+rounded truly initial window size: 4
+where MSS = 1460
+
+truly initial window size: 4.0
+rounded truly initial window size: 4
+where MSS = 1460
+
+
+2a00:1450:4009:814::200e
+average RTT: 30.762624999915715
+IPv6, HTTPS
+average initial window size over restarted connections: 7.595138888888889 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 29.90500000002794
+truly initial window size: 4.752777777777778
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.609836065573771
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+2a00:1450:400c:c04::71
+average RTT: 36.309000000031666
+IPv6, HTTPS
+average initial window size over restarted connections: 12.513333333333334 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 35.69800000009127
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+2a00:1450:4009:801::2013
+average RTT: 31.39049999997951
+IPv6, HTTPS
+average initial window size over restarted connections: 10.503174603174603 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.159722222222221 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 29.858999999938533
+truly initial window size: 10.458333333333334
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.344262295081966
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+2a03:2880:f21a:e5:face:b00c:0:4420
+average RTT: 31.317500000004657
+IPv6, HTTPS
+average initial window size over restarted connections: 8.393576388888889 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.594444444444445 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 31.575000000186265
+truly initial window size: 8.590972222222222
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 8.773758865248228
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+45.60.123.229
+average RTT: 30.00180645163862
+IPv4, HTTPS
+average initial window size over restarted connections: 9.014383561643836 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.014383561643836 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 29.429000000003725
+truly initial window size: 9.014383561643836
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.014383561643836
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+54.243.105.251
+average RTT: 111.2449999996461
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 111.2449999996461
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2600:9000:201f:fc00:1f:3a7d:1a40:93a1
+average RTT: 32.17924999997486
+IPv6, HTTPS
+average initial window size over restarted connections: 10.009166666666667 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.190972222222221 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 32.566999999806285
+truly initial window size: 10.190972222222221
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.028688524590164
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+128.4.31.8
+average RTT: 104.03224999993108
+IPv4, HTTPS
+average initial window size over restarted connections: 8.796575342465754 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 8.796575342465754 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 104.41399999987334
+truly initial window size: 8.796575342465754
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 8.796575342465754
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+185.140.48.229
+average RTT: 105.30663636369123
+IPv4, HTTP
+average initial window size over restarted connections: 2.0 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 2.0 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 105.78700000001118
+truly initial window size: 2.0
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 2.0
+rounded truly initial window size: 2
+where MSS = 1460
+
+
+2001:41d0:8:e8ad::1
+average RTT: 32.44400000013411
+IPv6, HTTP
+average initial window size over restarted connections: 9.797222222222222 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.797222222222222 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 32.44400000013411
+truly initial window size: 9.797222222222222
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 9.797222222222222
+rounded truly initial window size: 10
+where MSS = 1440
+
+
+2001:4f8:0:2::69
+average RTT: 162.101500000339
+IPv6, HTTPS
+average initial window size over restarted connections: 11.810416666666667 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.810416666666667 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 162.45100000035018
+truly initial window size: 11.810416666666667
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 11.810416666666667
+rounded truly initial window size: 12
+where MSS = 1440
+
+
+185.140.48.230
+average RTT: 105.42449999996461
+IPv4, HTTP
+average initial window size over restarted connections: 2.0 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 2.0 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 104.77600000007078
+truly initial window size: 2.0
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 2.0
+rounded truly initial window size: 2
+where MSS = 1460
+
+
+151.101.60.204
+average RTT: 27.976538461525568
+IPv4, HTTP
+average initial window size over restarted connections: 9.712328767123287 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.712328767123287 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 27.475000000093132
+truly initial window size: 9.712328767123287
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+2a00:1450:4009:801::200d
+average RTT: 32.43362500006333
+IPv6, HTTPS
+average initial window size over restarted connections: 11.012152777777777 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.786805555555556 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 32.54000000003725
+truly initial window size: 10.478472222222223
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.368032786885246
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+34.198.134.110
+average RTT: 106.72440000018105
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 109.8640000000596
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+192.30.253.113
+average RTT: 106.28937499993481
+IPv4, HTTPS
+average initial window size over restarted connections: 9.700456621004568 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.784931506849315 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 108.75700000021607
+truly initial window size: 9.632876712328768
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.793871866295264
+rounded truly initial window size: 10
+where MSS = 1436
+
+
+2600:9000:201f:4600:10:212c:6cc0:93a1
+average RTT: 32.95200000004843
+IPv6, HTTPS
+average initial window size over restarted connections: 11.733333333333333 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.733333333333333 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 31.85800000000745
+truly initial window size: 11.733333333333333
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.849180327868853
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+104.103.201.116
+average RTT: 29.622999999672174
+IPv4, HTTPS
+average initial window size over restarted connections: 11.747945205479452 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.747945205479452 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 28.891000000294298
+truly initial window size: 11.747945205479452
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 11.747945205479452
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+2a00:1450:400c:c00::66
+average RTT: 37.04625000001397
+IPv6, HTTPS
+average initial window size over restarted connections: 11.733333333333333 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.733333333333333 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 35.62999999988824
+truly initial window size: 11.733333333333333
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.849180327868853
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+104.130.254.187
+average RTT: 134.8210212765955
+IPv4, HTTPS
+average initial window size over restarted connections: 9.247146118721462 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.355479452054794 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 127.22099999990314
+truly initial window size: 9.345890410958905
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.345890410958905
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+52.8.236.58
+average RTT: 175.502000000095
+IPv4, HTTPS
+average initial window size over restarted connections: 5.786986301369863 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 5.786986301369863 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 177.44499999983236
+truly initial window size: 5.786986301369863
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 5.786986301369863
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+104.82.236.142
+average RTT: 27.864000000059605
+IPv4, HTTP
+average initial window size over restarted connections: 11.923287671232877 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.923287671232877 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 27.864000000059605
+truly initial window size: 11.923287671232877
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 11.923287671232877
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+52.109.12.50
+average RTT: 101.91600000020117
+IPv4, HTTPS
+average initial window size over restarted connections: 6.0 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 101.91600000020117
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+2a02:26f0:8e:193::1aca
+average RTT: 32.22749999980442
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 32.07799999974668
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+2a02:26f0:8e:198::2a1
+average RTT: 32.23966666668033
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.567000000271946
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+151.101.61.41
+average RTT: 28.188428571314684
+IPv4, HTTPS
+average initial window size over restarted connections: 9.580821917808219 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.613698630136986 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 28.390999999828637
+truly initial window size: 9.613698630136986
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.898448519040903
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+64.12.79.73
+average RTT: 105.81642857140729
+IPv4, HTTPS
+average initial window size over restarted connections: 11.0 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.0 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 103.76699999999255
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1460
+
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1460
+
+
+52.28.151.224
+average RTT: 43.30200000014156
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 41.006999999750406
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+64.12.228.96
+average RTT: 104.00849999999627
+IPv4, HTTPS
+average initial window size over restarted connections: 22.0 MSS
+rounded average initial window size over restarted connections: 22 MSS
+largest initial window: 22.0 MSS
+rounded largest initial window: 22 MSS
+truly initial window RTT: 103.53899999987334
+truly initial window size: 22.0
+rounded truly initial window size: 22
+where MSS = 1460
+
+truly initial window size: 22.0
+rounded truly initial window size: 22
+where MSS = 1460
+
+
+2a02:26f0:a1:29d::2d3e
+average RTT: 28.368666666715097
+IPv6, HTTPS
+average initial window size over restarted connections: 11.0 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.0 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 27.871999999973923
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1440
+
+
+209.17.4.8
+average RTT: 177.71849999995902
+IPv4, HTTPS
+average initial window size over restarted connections: 4.385616438356164 MSS
+rounded average initial window size over restarted connections: 4 MSS
+largest initial window: 4.385616438356164 MSS
+rounded largest initial window: 4 MSS
+truly initial window RTT: 176.05400000000373
+truly initial window size: 4.385616438356164
+rounded truly initial window size: 4
+where MSS = 1460
+
+truly initial window size: 4.385616438356164
+rounded truly initial window size: 4
+where MSS = 1460
+
+
+2a02:26f0:a1:28a::14ea
+average RTT: 33.3190000000565
+IPv6, HTTPS
+average initial window size over restarted connections: 11.0 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.0 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 28.665000000037253
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1440
+
+
+2a02:26f0:a1:2a0::2d3e
+average RTT: 28.154499999945983
+IPv6, HTTPS
+average initial window size over restarted connections: 13.5 MSS
+rounded average initial window size over restarted connections: 14 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 28.30599999986589
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 11.0
+rounded truly initial window size: 11
+where MSS = 1440
+
+
+72.246.231.17
+average RTT: 28.5303333333383
+IPv4, HTTP
+average initial window size over restarted connections: 25.0 MSS
+rounded average initial window size over restarted connections: 25 MSS
+largest initial window: 25.0 MSS
+rounded largest initial window: 25 MSS
+truly initial window RTT: 28.101999999955297
+truly initial window size: 25.0
+rounded truly initial window size: 25
+where MSS = 1460
+
+truly initial window size: 25.0
+rounded truly initial window size: 25
+where MSS = 1460
+
+
+54.88.240.91
+average RTT: 105.83449999994731
+IPv4, HTTPS
+average initial window size over restarted connections: 9.95068493150685 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.95068493150685 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 105.00499999988824
+truly initial window size: 9.95068493150685
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.95068493150685
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+52.200.236.198
+average RTT: 106.33360000001267
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 104.27199999988079
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+34.238.110.214
+average RTT: 106.74144444446493
+IPv4, HTTPS
+average initial window size over restarted connections: 9.887842465753424 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 109.75300000002608
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+109.228.36.175
+average RTT: 31.35199999989709
+IPv4, HTTP
+average initial window size over restarted connections: 9.452054794520548 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.452054794520548 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 31.723000000230968
+truly initial window size: 9.452054794520548
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1380
+
+
+184.154.216.245
+average RTT: 124.0109999999695
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 120.07099999999627
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2400:cb00:2048:1::6811:73b4
+average RTT: 35.91800000029616
+IPv6, HTTPS
+average initial window size over restarted connections: 6.310416666666667 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.795833333333333 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 29.71500000031665
+truly initial window size: 6.795833333333333
+rounded truly initial window size: 7
+where MSS = 1440
+
+truly initial window size: 8.021311475409837
+rounded truly initial window size: 8
+where MSS = 1220
+
+
+192.237.192.41
+average RTT: 135.46387499995762
+IPv4, HTTP
+average initial window size over restarted connections: 3.0 MSS
+rounded average initial window size over restarted connections: 3 MSS
+largest initial window: 3.0 MSS
+rounded largest initial window: 3 MSS
+truly initial window RTT: 127.81199999991804
+truly initial window size: 3.0
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.0
+rounded truly initial window size: 3
+where MSS = 1460
+
+
+142.4.4.229
+average RTT: 204.0011666667027
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 197.24000000022352
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+74.217.55.181
+average RTT: 99.9163333332787
+IPv4, HTTPS
+average initial window size over restarted connections: 9.979452054794521 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.979452054794521 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 101.65199999976903
+truly initial window size: 9.979452054794521
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.979452054794521
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+104.236.46.227
+average RTT: 106.51300000003539
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 98.17900000000373
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+104.41.216.18
+average RTT: 37.7359999998007
+IPv4, HTTPS
+average initial window size over restarted connections: 12.0 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.0 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 37.43500000005588
+truly initial window size: 12.0
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 12.0
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+2600:9000:211b:ea00:f:4d4:8580:93a1
+average RTT: 33.17501785714246
+IPv6, HTTPS
+average initial window size over restarted connections: 19.3068287037037 MSS
+rounded average initial window size over restarted connections: 19 MSS
+largest initial window: 21.180555555555557 MSS
+rounded largest initial window: 21 MSS
+truly initial window RTT: 31.91300000017509
+truly initial window size: 11.2
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 13.219672131147542
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+199.230.28.57
+average RTT: 107.2359999998783
+IPv4, HTTP
+average initial window size over restarted connections: 5.89634703196347 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 7.989041095890411 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 112.50300000002608
+truly initial window size: 3.000684931506849
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.17463768115942
+rounded truly initial window size: 3
+where MSS = 1380
+
+
+136.147.104.33
+average RTT: 137.91700000036508
+IPv4, HTTP
+average initial window size over restarted connections: 9.29041095890411 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.29041095890411 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 137.91700000036508
+truly initial window size: 9.29041095890411
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.973529411764705
+rounded truly initial window size: 10
+where MSS = 1360
+
+
+2a03:2880:f129:83:face:b00c:0:25de
+average RTT: 31.372333333310152
+IPv6, HTTPS
+average initial window size over restarted connections: 9.117592592592594 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.197222222222223 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 31.344000000040978
+truly initial window size: 9.134027777777778
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 9.328368794326241
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+2a00:1450:4009:801::2004
+average RTT: 32.67512903231827
+IPv6, HTTPS
+average initial window size over restarted connections: 10.85277777777778 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.86111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 32.14500000001863
+truly initial window size: 11.01388888888889
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 13.0
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+2a00:1450:400c:c04::8a
+average RTT: 36.83700000005774
+IPv6, HTTPS
+average initial window size over restarted connections: 11.733333333333333 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.733333333333333 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 37.06600000010803
+truly initial window size: 11.733333333333333
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 13.849180327868853
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+23.212.233.55
+average RTT: 28.09899999992922
+IPv4, HTTPS
+average initial window size over restarted connections: 11.923287671232877 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.923287671232877 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 27.083000000100583
+truly initial window size: 11.923287671232877
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 11.923287671232877
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+2a03:2880:f229:e5:face:b00c:0:4420
+average RTT: 31.110000000102445
+IPv6, HTTPS
+average initial window size over restarted connections: 8.684027777777779 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 8.77361111111111 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 31.628000000026077
+truly initial window size: 8.77361111111111
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 8.960283687943262
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+104.41.216.16
+average RTT: 38.149000000208616
+IPv4, HTTPS
+average initial window size over restarted connections: 12.0 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 12.0 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 38.66299999970943
+truly initial window size: 12.0
+rounded truly initial window size: 12
+where MSS = 1460
+
+truly initial window size: 12.0
+rounded truly initial window size: 12
+where MSS = 1460
+
+
+69.16.175.42
+average RTT: 28.403999999631196
+IPv4, HTTPS
+average initial window size over restarted connections: 15.597945205479451 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 15.597945205479451 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.65100000007078
+truly initial window size: 15.597945205479451
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 15.597945205479451
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+23.111.10.140
+average RTT: 29.410999999847263
+IPv4, HTTPS
+average initial window size over restarted connections: 2.210958904109589 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 2.210958904109589 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 29.410999999847263
+truly initial window size: 2.210958904109589
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 2.210958904109589
+rounded truly initial window size: 2
+where MSS = 1460
+
+
+23.111.10.152
+average RTT: 30.078999999910593
+IPv4, HTTPS
+average initial window size over restarted connections: 3.8143835616438357 MSS
+rounded average initial window size over restarted connections: 4 MSS
+largest initial window: 3.8143835616438357 MSS
+rounded largest initial window: 4 MSS
+truly initial window RTT: 29.496999999973923
+truly initial window size: 3.8143835616438357
+rounded truly initial window size: 4
+where MSS = 1460
+
+truly initial window size: 3.8143835616438357
+rounded truly initial window size: 4
+where MSS = 1460
+
+
+151.101.193.69
+average RTT: 27.885000000242144
+IPv4, HTTPS
+average initial window size over restarted connections: 1.5321917808219179 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 1.5321917808219179 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 27.25400000018999
+truly initial window size: 1.5321917808219179
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 1.577574047954866
+rounded truly initial window size: 2
+where MSS = 1418
+
+
+2400:cb00:2048:1::c629:d7a2
+average RTT: 35.91437499993481
+IPv6, HTTPS
+average initial window size over restarted connections: 4.854166666666667 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 4.854166666666667 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 32.376999999862164
+truly initial window size: 4.854166666666667
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.729508196721311
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+2400:cb00:2048:1::c629:d6a2
+average RTT: 31.13149999990128
+IPv6, HTTPS
+average initial window size over restarted connections: 5.257175925925925 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 5.825 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 31.39600000018254
+truly initial window size: 4.854166666666667
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.729508196721311
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+2400:cb00:2048:1::6813:c166
+average RTT: 31.140916666559253
+IPv6, HTTPS
+average initial window size over restarted connections: 5.732291666666667 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.6722222222222225 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 29.53899999987334
+truly initial window size: 5.5777777777777775
+rounded truly initial window size: 6
+where MSS = 1440
+
+truly initial window size: 6.583606557377049
+rounded truly initial window size: 7
+where MSS = 1220
+
+
+1.1.1.1
+average RTT: 31.72900000005029
+IPv4, HTTPS
+average initial window size over restarted connections: 9.596575342465753 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.617808219178082 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 31.263999999966472
+truly initial window size: 9.575342465753424
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.575342465753424
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2400:cb00:2048:1::6813:c366
+average RTT: 31.768999999854714
+IPv6, HTTPS
+average initial window size over restarted connections: 5.825 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 5.825 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 29.282999999821186
+truly initial window size: 5.825
+rounded truly initial window size: 6
+where MSS = 1440
+
+truly initial window size: 6.8754098360655735
+rounded truly initial window size: 7
+where MSS = 1220
+
+
+2400:cb00:2048:1::6813:c066
+average RTT: 29.556499999715015
+IPv6, HTTPS
+average initial window size over restarted connections: 4.854166666666667 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 4.854166666666667 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 29.552999999839813
+truly initial window size: 4.854166666666667
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.729508196721311
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+2a03:2880:f029:11:face:b00c:0:2
+average RTT: 31.121999999741092
+IPv6, HTTPS
+average initial window size over restarted connections: 9.11875 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.11875 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 29.593000000342727
+truly initial window size: 9.11875
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 9.312765957446809
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+104.244.46.39
+average RTT: 30.407000000122935
+IPv4, HTTPS
+average initial window size over restarted connections: 1.88013698630137 MSS
+rounded average initial window size over restarted connections: 2 MSS
+largest initial window: 1.88013698630137 MSS
+rounded largest initial window: 2 MSS
+truly initial window RTT: 26.68500000005588
+truly initial window size: 1.88013698630137
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 1.88013698630137
+rounded truly initial window size: 2
+where MSS = 1460
+
+
+23.212.234.203
+average RTT: 26.859000000171363
+IPv4, HTTP
+average initial window size over restarted connections: 1.108904109589041 MSS
+rounded average initial window size over restarted connections: 1 MSS
+largest initial window: 1.108904109589041 MSS
+rounded largest initial window: 1 MSS
+truly initial window RTT: 26.859000000171363
+truly initial window size: 1.108904109589041
+rounded truly initial window size: 1
+where MSS = 1460
+
+truly initial window size: 1.108904109589041
+rounded truly initial window size: 1
+where MSS = 1460
+
+
+52.16.144.52
+average RTT: 41.56204166664005
+IPv4, HTTP
+average initial window size over restarted connections: 9.099061941631927 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 11.48082191780822 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 38.708999999798834
+truly initial window size: 7.8931506849315065
+rounded truly initial window size: 8
+where MSS = 1460
+
+truly initial window size: 7.8931506849315065
+rounded truly initial window size: 8
+where MSS = 1460
+
+
+2400:cb00:2048:1::6818:828
+average RTT: 31.18100000009872
+IPv6, HTTPS
+average initial window size over restarted connections: 5.5777777777777775 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 5.5777777777777775 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 32.2269999999553
+truly initial window size: 5.5777777777777775
+rounded truly initial window size: 6
+where MSS = 1440
+
+truly initial window size: 6.583606557377049
+rounded truly initial window size: 7
+where MSS = 1220
+
+
+192.30.253.112
+average RTT: 154.9309999999823
+IPv4, HTTPS
+average initial window size over restarted connections: 9.664554794520548 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.784931506849315 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 109.35000000009313
+truly initial window size: 9.632876712328768
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.793871866295264
+rounded truly initial window size: 10
+where MSS = 1436
+
+
+52.6.2.191
+average RTT: 108.00066666677594
+IPv4, HTTPS
+average initial window size over restarted connections: 9.623287671232877 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.623287671232877 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 109.73700000019744
+truly initial window size: 9.623287671232877
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.623287671232877
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a02:26f0:a1:2a2::1efd
+average RTT: 28.5578333332669
+IPv6, HTTPS
+average initial window size over restarted connections: 15.532812499999999 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.678000000305474
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+31.25.82.8
+average RTT: 37.475749999983236
+IPv4, HTTPS
+average initial window size over restarted connections: 11.3736301369863 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.383561643835616 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 36.48700000019744
+truly initial window size: 11.363698630136986
+rounded truly initial window size: 11
+where MSS = 1460
+
+truly initial window size: 11.457872928176796
+rounded truly initial window size: 11
+where MSS = 1448
+
+
+2a02:26f0:db:28c::11e2
+average RTT: 28.01422222219925
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.240000000223517
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+2.21.189.37
+average RTT: 27.822500000009313
+IPv4, HTTPS
+average initial window size over restarted connections: 15.551467710371822 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.73700000019744
+truly initial window size: 15.295205479452054
+rounded truly initial window size: 15
+where MSS = 1460
+
+truly initial window size: 15.295205479452054
+rounded truly initial window size: 15
+where MSS = 1460
+
+
+204.93.89.33
+average RTT: 153.87899999995716
+IPv4, HTTPS
+average initial window size over restarted connections: 4.454794520547946 MSS
+rounded average initial window size over restarted connections: 4 MSS
+largest initial window: 4.909589041095891 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 153.61100000003353
+truly initial window size: 4.909589041095891
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 4.909589041095891
+rounded truly initial window size: 5
+where MSS = 1460
+
+
+192.40.113.16
+average RTT: 166.93800000008196
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 166.93800000008196
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+34.228.253.212
+average RTT: 104.0519999996759
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 103.88299999991432
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+52.8.12.214
+average RTT: 173.72399999992922
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 172.03599999984726
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+151.101.65.197
+average RTT: 28.588999999687076
+IPv4, HTTPS
+average initial window size over restarted connections: 9.5486301369863 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.5486301369863 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 28.588999999687076
+truly initial window size: 9.5486301369863
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.831452750352609
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+192.0.79.33
+average RTT: 28.571666666616995
+IPv4, HTTPS
+average initial window size over restarted connections: 9.957534246575342 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.957534246575342 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 28.182000000029802
+truly initial window size: 9.957534246575342
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.957534246575342
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+192.0.78.12
+average RTT: 41.05600000033155
+IPv4, HTTPS
+average initial window size over restarted connections: 7.957534246575342 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 7.957534246575342 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 28.160999999847263
+truly initial window size: 7.957534246575342
+rounded truly initial window size: 8
+where MSS = 1460
+
+truly initial window size: 7.957534246575342
+rounded truly initial window size: 8
+where MSS = 1460
+
+
+52.7.170.58
+average RTT: 105.02599999960512
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 105.02599999960512
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+204.8.173.169
+average RTT: 193.47866666673994
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 193.33700000029057
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+52.2.2.126
+average RTT: 110.49239999996499
+IPv4, HTTPS
+average initial window size over restarted connections: 9.921917808219177 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.921917808219177 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 111.6480000000447
+truly initial window size: 9.921917808219177
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.921917808219177
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a00:1450:4009:80d::200e
+average RTT: 30.96350000007078
+IPv6, HTTPS
+average initial window size over restarted connections: 12.708333333333334 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 31.006000000052154
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+2400:cb00:2048:1::6811:74b4
+average RTT: 29.959999999962747
+IPv6, HTTPS
+average initial window size over restarted connections: 6.001388888888889 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.301388888888889 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 29.91799999959767
+truly initial window size: 6.301388888888889
+rounded truly initial window size: 6
+where MSS = 1440
+
+truly initial window size: 7.437704918032787
+rounded truly initial window size: 7
+where MSS = 1220
+
+
+2a00:1450:4009:80f::2001
+average RTT: 31.341333333402872
+IPv6, HTTPS
+average initial window size over restarted connections: 8.050694444444444 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.050694444444444 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 29.96999999973923
+truly initial window size: 8.050694444444444
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 9.502459016393443
+rounded truly initial window size: 10
+where MSS = 1220
+
+
+52.6.188.149
+average RTT: 109.28433333321784
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 103.69200000027195
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a00:1450:4009:80f::2013
+average RTT: 29.72000000020489
+IPv6, HTTPS
+average initial window size over restarted connections: 10.458333333333334 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.458333333333334 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 29.72000000020489
+truly initial window size: 10.458333333333334
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.344262295081966
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+2a00:1450:4009:80f::2011
+average RTT: 31.99533333318929
+IPv6, HTTPS
+average initial window size over restarted connections: 10.869097222222223 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.303472222222222 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 31.31099999975413
+truly initial window size: 11.303472222222222
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 13.341803278688525
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+2a00:1450:4009:80f::200d
+average RTT: 32.818312500050524
+IPv6, HTTPS
+average initial window size over restarted connections: 10.305864197530864 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 11.220833333333333 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 31.265000000130385
+truly initial window size: 10.360416666666667
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 12.228688524590163
+rounded truly initial window size: 12
+where MSS = 1220
+
+
+34.201.64.179
+average RTT: 105.43237499997485
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 104.81300000008196
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2400:cb00:2048:1::6811:85b4
+average RTT: 30.9375
+IPv6, HTTPS
+average initial window size over restarted connections: 5.339583333333334 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 5.825 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 28.970999999903142
+truly initial window size: 4.854166666666667
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.729508196721311
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+50.17.250.36
+average RTT: 105.29987500002608
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 104.48400000017136
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2620:12a:8001::3
+average RTT: 31.244000000180677
+IPv6, HTTP
+average initial window size over restarted connections: 8.1625 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.1625 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 28.897000000346452
+truly initial window size: 8.1625
+rounded truly initial window size: 8
+where MSS = 1440
+
+truly initial window size: 8.407725321888412
+rounded truly initial window size: 8
+where MSS = 1398
+
+
+2620:12a:8000::3
+average RTT: 30.117000000240903
+IPv6, HTTPS
+average initial window size over restarted connections: 9.697222222222223 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.697222222222223 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 29.114000000059605
+truly initial window size: 9.697222222222223
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 9.988555078683834
+rounded truly initial window size: 10
+where MSS = 1398
+
+
+2620:12a:8001::1
+average RTT: 31.922500000102445
+IPv6, HTTPS
+average initial window size over restarted connections: 9.697222222222223 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.697222222222223 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 33.17599999997765
+truly initial window size: 9.697222222222223
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 9.988555078683834
+rounded truly initial window size: 10
+where MSS = 1398
+
+
+151.101.62.2
+average RTT: 28.01790909088132
+IPv4, HTTPS
+average initial window size over restarted connections: 11.784417808219178 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 15.473972602739726 MSS
+rounded largest initial window: 15 MSS
+truly initial window RTT: 27.92299999995157
+truly initial window size: 9.27945205479452
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.554301833568406
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+35.174.158.178
+average RTT: 123.58566666658346
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 121.78300000028685
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a02:26f0:8e:2a2::b33
+average RTT: 32.7012499999837
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 32.63200000021607
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+67.215.70.40
+average RTT: 179.4657142856657
+IPv4, HTTPS
+average initial window size over restarted connections: 9.72602739726028 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.726027397260275 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 174.8870000001043
+truly initial window size: 9.726027397260275
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1420
+
+
+96.45.200.181
+average RTT: 111.80666666664183
+IPv4, HTTPS
+average initial window size over restarted connections: 8.848630136986301 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 8.848630136986301 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 112.3340000002645
+truly initial window size: 8.848630136986301
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 8.848630136986301
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+146.112.62.104
+average RTT: 178.5789999999106
+IPv4, HTTPS
+average initial window size over restarted connections: 7.497945205479452 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 7.497945205479452 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 177.83799999998882
+truly initial window size: 7.497945205479452
+rounded truly initial window size: 7
+where MSS = 1460
+
+truly initial window size: 8.420769230769231
+rounded truly initial window size: 8
+where MSS = 1300
+
+
+67.215.92.210
+average RTT: 179.44466666667722
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 180.24099999992177
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+208.69.38.170
+average RTT: 28.407000000122935
+IPv4, HTTPS
+average initial window size over restarted connections: 9.517123287671232 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.517123287671232 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 28.407000000122935
+truly initial window size: 9.517123287671232
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.785211267605634
+rounded truly initial window size: 10
+where MSS = 1420
+
+
+45.60.13.212
+average RTT: 29.889999999664724
+IPv4, HTTPS
+average initial window size over restarted connections: 6.0184931506849315 MSS
+rounded average initial window size over restarted connections: 6 MSS
+largest initial window: 6.0184931506849315 MSS
+rounded largest initial window: 6 MSS
+truly initial window RTT: 29.234999999869615
+truly initial window size: 6.0184931506849315
+rounded truly initial window size: 6
+where MSS = 1460
+
+truly initial window size: 6.0184931506849315
+rounded truly initial window size: 6
+where MSS = 1460
+
+
+2a02:26f0:8e:291::b33
+average RTT: 32.657000000122935
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 32.731000000145286
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+35.201.93.182
+average RTT: 31.232499999925494
+IPv4, HTTP
+average initial window size over restarted connections: 1.189041095890411 MSS
+rounded average initial window size over restarted connections: 1 MSS
+largest initial window: 1.189041095890411 MSS
+rounded largest initial window: 1 MSS
+truly initial window RTT: 30.384999999776483
+truly initial window size: 1.189041095890411
+rounded truly initial window size: 1
+where MSS = 1460
+
+truly initial window size: 1.213986013986014
+rounded truly initial window size: 1
+where MSS = 1430
+
+
+2607:f238:3::1:55
+average RTT: 157.6671176470597
+IPv6, HTTPS
+average initial window size over restarted connections: 11.795833333333333 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.795833333333333 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 157.12800000002608
+truly initial window size: 11.795833333333333
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 11.795833333333333
+rounded truly initial window size: 12
+where MSS = 1440
+
+
+151.101.60.129
+average RTT: 27.782999999821186
+IPv4, HTTP
+average initial window size over restarted connections: 9.712328767123287 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.712328767123287 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 27.782999999821186
+truly initial window size: 9.712328767123287
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+2001:470:1:3a8::202
+average RTT: 158.16666666666666
+IPv6, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 157.6359999999404
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1440
+
+
+185.166.140.32
+average RTT: 52.01725000003353
+IPv4, HTTPS
+average initial window size over restarted connections: 9.632876712328766 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.954109589041096 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 52.41799999959767
+truly initial window size: 9.954109589041096
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.954109589041096
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2001:1900:3001:11::3e
+average RTT: 164.8300000000745
+IPv6, HTTPS
+average initial window size over restarted connections: 9.305555555555555 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.305555555555555 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 164.70400000037625
+truly initial window size: 9.305555555555555
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1340
+
+
+176.9.190.66
+average RTT: 47.18442857139079
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 46.27499999990687
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a00:1450:400c:c0a::8a
+average RTT: 37.25112500006799
+IPv6, HTTPS
+average initial window size over restarted connections: 12.708333333333334 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 38.19099999964237
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+2a00:1450:4009:80f::2004
+average RTT: 31.67233333333085
+IPv6, HTTPS
+average initial window size over restarted connections: 11.86111111111111 MSS
+rounded average initial window size over restarted connections: 12 MSS
+largest initial window: 11.86111111111111 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 31.790000000037253
+truly initial window size: 11.86111111111111
+rounded truly initial window size: 12
+where MSS = 1440
+
+truly initial window size: 14.0
+rounded truly initial window size: 14
+where MSS = 1220
+
+
+2620:109:c007:102::5be1:f885
+average RTT: 37.3450909090567
+IPv6, HTTPS
+average initial window size over restarted connections: 8.045208333333333 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 8.827083333333333 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 36.433000000193715
+truly initial window size: 8.731944444444444
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 8.9177304964539
+rounded truly initial window size: 9
+where MSS = 1410
+
+
+151.101.60.84
+average RTT: 28.40200000006007
+IPv4, HTTPS
+average initial window size over restarted connections: 4.982191780821918 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 7.934246575342466 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 27.885999999940395
+truly initial window size: 2.03013698630137
+rounded truly initial window size: 2
+where MSS = 1460
+
+truly initial window size: 2.090267983074753
+rounded truly initial window size: 2
+where MSS = 1418
+
+
+2a02:26f0:8e:293::2a1
+average RTT: 32.24299999993915
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 32.455000000074506
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+151.101.130.110
+average RTT: 28.782754098378184
+IPv4, HTTPS
+average initial window size over restarted connections: 7.523287671232877 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 7.523287671232877 MSS
+rounded largest initial window: 8 MSS
+truly initial window RTT: 27.938999999780208
+truly initial window size: 7.523287671232877
+rounded truly initial window size: 8
+where MSS = 1460
+
+truly initial window size: 7.746121297602257
+rounded truly initial window size: 8
+where MSS = 1418
+
+
+50.31.164.169
+average RTT: 119.18660000003874
+IPv4, HTTPS
+average initial window size over restarted connections: 7.987328767123288 MSS
+rounded average initial window size over restarted connections: 8 MSS
+largest initial window: 11.145205479452056 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 118.93800000008196
+truly initial window size: 11.145205479452056
+rounded truly initial window size: 11
+where MSS = 1460
+
+truly initial window size: 11.622857142857143
+rounded truly initial window size: 12
+where MSS = 1400
+
+
+50.31.164.184
+average RTT: 119.35150000010617
+IPv4, HTTPS
+average initial window size over restarted connections: 4.872602739726028 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 4.872602739726028 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 119.06999999983236
+truly initial window size: 4.872602739726028
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 5.081428571428572
+rounded truly initial window size: 5
+where MSS = 1400
+
+
+69.172.200.241
+average RTT: 32.58424999995623
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 35.29600000008941
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+54.244.222.80
+average RTT: 178.82274999993388
+IPv4, HTTPS
+average initial window size over restarted connections: 9.85291095890411 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 175.42599999997765
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2001:470:1:3a8::222
+average RTT: 165.3279999999795
+IPv6, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 158.67300000041723
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1440
+
+
+192.190.92.17
+average RTT: 107.8070000000298
+IPv4, HTTP
+average initial window size over restarted connections: 3.000684931506849 MSS
+rounded average initial window size over restarted connections: 3 MSS
+largest initial window: 3.000684931506849 MSS
+rounded largest initial window: 3 MSS
+truly initial window RTT: 107.8070000000298
+truly initial window size: 3.000684931506849
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.1292857142857144
+rounded truly initial window size: 3
+where MSS = 1400
+
+
+185.166.140.31
+average RTT: 50.93900000024587
+IPv4, HTTPS
+average initial window size over restarted connections: 9.954109589041096 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.954109589041096 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 50.93900000024587
+truly initial window size: 9.954109589041096
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.954109589041096
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+54.225.151.173
+average RTT: 105.0
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 104.20999999996275
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+23.23.230.101
+average RTT: 104.40599999995902
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 104.10300000011921
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2620:100:6020:1::a27d:4001
+average RTT: 28.25499999988824
+IPv6, HTTPS
+average initial window size over restarted connections: 8.838888888888889 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 8.838888888888889 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 27.833999999798834
+truly initial window size: 8.838888888888889
+rounded truly initial window size: 9
+where MSS = 1440
+
+truly initial window size: 8.838888888888889
+rounded truly initial window size: 9
+where MSS = 1440
+
+
+54.165.41.244
+average RTT: 104.80300000007264
+IPv4, HTTPS
+average initial window size over restarted connections: 9.193835616438356 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.193835616438356 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 104.58600000012666
+truly initial window size: 9.193835616438356
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.193835616438356
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+2a00:1450:400c:c07::bc
+average RTT: 39.780909090937875
+IPv6, HTTP
+average initial window size over restarted connections: 3.0284722222222222 MSS
+rounded average initial window size over restarted connections: 3 MSS
+largest initial window: 3.0284722222222222 MSS
+rounded largest initial window: 3 MSS
+truly initial window RTT: 37.799000000115484
+truly initial window size: 3.0284722222222222
+rounded truly initial window size: 3
+where MSS = 1440
+
+truly initial window size: 3.574590163934426
+rounded truly initial window size: 4
+where MSS = 1220
+
+
+23.212.234.44
+average RTT: 29.89383333339356
+IPv4, HTTPS
+average initial window size over restarted connections: 14.39931506849315 MSS
+rounded average initial window size over restarted connections: 14 MSS
+largest initial window: 14.39931506849315 MSS
+rounded largest initial window: 14 MSS
+truly initial window RTT: 37.41500000003725
+truly initial window size: 14.39931506849315
+rounded truly initial window size: 14
+where MSS = 1460
+
+truly initial window size: 14.39931506849315
+rounded truly initial window size: 14
+where MSS = 1460
+
+
+35.158.232.178
+average RTT: 43.44100000010803
+IPv4, HTTPS
+average initial window size over restarted connections: 9.0 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.0 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 43.44100000010803
+truly initial window size: 9.0
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.0
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+151.101.192.217
+average RTT: 31.320666666453082
+IPv4, HTTPS
+average initial window size over restarted connections: 9.93744292237443 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.617808219178082 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 30.16799999959767
+truly initial window size: 10.617808219178082
+rounded truly initial window size: 11
+where MSS = 1460
+
+truly initial window size: 10.932299012693935
+rounded truly initial window size: 11
+where MSS = 1418
+
+
+2a04:4e42:f::313
+average RTT: 30.388999999966472
+IPv6, HTTPS
+average initial window size over restarted connections: 9.686111111111112 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.686111111111112 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 30.333999999798834
+truly initial window size: 9.686111111111112
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 9.977110157367669
+rounded truly initial window size: 10
+where MSS = 1398
+
+
+151.101.60.249
+average RTT: 27.959900000086055
+IPv4, HTTPS
+average initial window size over restarted connections: 4.832534246575342 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 4.8417808219178085 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 27.398999999742955
+truly initial window size: 4.8417808219178085
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 4.985190409026798
+rounded truly initial window size: 5
+where MSS = 1418
+
+
+185.166.140.33
+average RTT: 53.299999999813735
+IPv4, HTTPS
+average initial window size over restarted connections: 9.975342465753425 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.975342465753425 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 52.01399999996647
+truly initial window size: 9.975342465753425
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 9.975342465753425
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+216.198.2.1
+average RTT: 208.6647500001127
+IPv4, HTTPS
+average initial window size over restarted connections: 13.802397260273974 MSS
+rounded average initial window size over restarted connections: 14 MSS
+largest initial window: 14.67123287671233 MSS
+rounded largest initial window: 15 MSS
+truly initial window RTT: 178.56400000024587
+truly initial window size: 12.933561643835617
+rounded truly initial window size: 13
+where MSS = 1460
+
+truly initial window size: 13.260533707865168
+rounded truly initial window size: 13
+where MSS = 1424
+
+
+2a02:26f0:8e:280::2a1
+average RTT: 31.879499999806285
+IPv6, HTTPS
+average initial window size over restarted connections: 15.5 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.808999999891967
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1440
+
+
+192.28.149.195
+average RTT: 223.04449999984354
+IPv4, HTTPS
+average initial window size over restarted connections: 7.104109589041096 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 7.104109589041096 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 159.13499999977648
+truly initial window size: 7.104109589041096
+rounded truly initial window size: 7
+where MSS = 1460
+
+truly initial window size: 7.515942028985507
+rounded truly initial window size: 8
+where MSS = 1380
+
+
+151.101.192.68
+average RTT: 33.25400000018999
+IPv4, HTTP
+average initial window size over restarted connections: 9.712328767123287 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.712328767123287 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 33.25400000018999
+truly initial window size: 9.712328767123287
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+45.27.3.78
+average RTT: 219.03300000028685
+IPv4, HTTPS
+average initial window size over restarted connections: 3.0 MSS
+rounded average initial window size over restarted connections: 3 MSS
+largest initial window: 3.0 MSS
+rounded largest initial window: 3 MSS
+truly initial window RTT: 195.0690000001341
+truly initial window size: 3.0
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.0
+rounded truly initial window size: 3
+where MSS = 1460
+
+
+23.212.233.62
+average RTT: 27.491500000003725
+IPv4, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.225999999791384
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+2600:9000:211b:fe00:1:badf:c780:93a1
+average RTT: 34.04199999989942
+IPv6, HTTPS
+average initial window size over restarted connections: 21.180555555555557 MSS
+rounded average initial window size over restarted connections: 21 MSS
+largest initial window: 21.180555555555557 MSS
+rounded largest initial window: 21 MSS
+truly initial window RTT: 33.03799999970943
+truly initial window size: 21.180555555555557
+rounded truly initial window size: 21
+where MSS = 1440
+
+truly initial window size: 25.0
+rounded truly initial window size: 25
+where MSS = 1220
+
+
+2a00:1450:4009:810::200d
+average RTT: 32.228222222274375
+IPv6, HTTPS
+average initial window size over restarted connections: 11.229976851851852 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.763194444444444 MSS
+rounded largest initial window: 12 MSS
+truly initial window RTT: 30.57700000004843
+truly initial window size: 11.318055555555556
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 13.359016393442623
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+151.101.1.69
+average RTT: 28.37000000011176
+IPv4, HTTPS
+average initial window size over restarted connections: 9.156164383561643 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.156164383561643 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 28.164000000804663
+truly initial window size: 9.156164383561643
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.427362482369535
+rounded truly initial window size: 9
+where MSS = 1418
+
+
+2a00:1450:4009:810::2001
+average RTT: 31.509833333392937
+IPv6, HTTPS
+average initial window size over restarted connections: 9.573611111111111 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.573611111111111 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 29.165999999269843
+truly initial window size: 9.573611111111111
+rounded truly initial window size: 10
+where MSS = 1440
+
+truly initial window size: 11.3
+rounded truly initial window size: 11
+where MSS = 1220
+
+
+198.54.12.159
+average RTT: 136.52362068970527
+IPv4, HTTPS
+average initial window size over restarted connections: 10.55819555975437 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 24.745205479452054 MSS
+rounded largest initial window: 25 MSS
+truly initial window RTT: 136.7039999999106
+truly initial window size: 5.0
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 5.0
+rounded truly initial window size: 5
+where MSS = 1460
+
+
+54.152.202.195
+average RTT: 104.64766666665673
+IPv4, HTTPS
+average initial window size over restarted connections: 8.604794520547944 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 8.604794520547944 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 104.16600000020117
+truly initial window size: 8.604794520547944
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 8.604794520547944
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+37.187.159.20
+average RTT: 30.470999999903142
+IPv4, HTTPS
+average initial window size over restarted connections: 9.0 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.0 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 29.894000000320375
+truly initial window size: 9.0
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.0
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+193.67.138.48
+average RTT: 40.43899999931455
+IPv4, HTTPS
+average initial window size over restarted connections: 9.13082191780822 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.13082191780822 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 40.43899999931455
+truly initial window size: 9.13082191780822
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.13082191780822
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+198.235.184.208
+average RTT: 142.18520000036807
+IPv4, HTTPS
+average initial window size over restarted connections: 9.452054794520548 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.452054794520548 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 134.94000000040978
+truly initial window size: 9.452054794520548
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1380
+
+
+67.207.91.77
+average RTT: 98.00079999994486
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 98.07299999985844
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+23.21.55.239
+average RTT: 107.13350000046194
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 104.08300000056624
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+206.51.242.1
+average RTT: 37.98649999964982
+IPv4, HTTPS
+average initial window size over restarted connections: 8.69041095890411 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 8.69041095890411 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 38.747000000439584
+truly initial window size: 8.69041095890411
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 8.69041095890411
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+151.139.245.5
+average RTT: 29.74449999956414
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 29.1949999993667
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+34.199.67.188
+average RTT: 211.15600000042468
+IPv4, HTTPS
+average initial window size over restarted connections: 9.460958904109589 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.460958904109589 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 193.18699999991804
+truly initial window size: 9.460958904109589
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.460958904109589
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+52.90.147.9
+average RTT: 387.40000000037253
+IPv4, HTTPS
+average initial window size over restarted connections: 9.266438356164384 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.266438356164384 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 190.418000000529
+truly initial window size: 9.266438356164384
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.933186490455213
+rounded truly initial window size: 10
+where MSS = 1362
+
+
+13.32.67.111
+average RTT: 30.831499999854714
+IPv4, HTTPS
+average initial window size over restarted connections: 22.65068493150685 MSS
+rounded average initial window size over restarted connections: 23 MSS
+largest initial window: 23.65068493150685 MSS
+rounded largest initial window: 24 MSS
+truly initial window RTT: 30.77199999988079
+truly initial window size: 23.65068493150685
+rounded truly initial window size: 24
+where MSS = 1460
+
+truly initial window size: 23.65068493150685
+rounded truly initial window size: 24
+where MSS = 1460
+
+
+222.249.239.227
+average RTT: 374.2529999995604
+IPv4, HTTPS
+average initial window size over restarted connections: 5.0 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 5.0 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 374.2529999995604
+truly initial window size: 5.0
+rounded truly initial window size: 5
+where MSS = 1460
+
+truly initial window size: 5.0
+rounded truly initial window size: 5
+where MSS = 1460
+
+
+64.106.169.162
+average RTT: 100.875
+IPv4, HTTPS
+average initial window size over restarted connections: 6.616438356164384 MSS
+rounded average initial window size over restarted connections: 7 MSS
+largest initial window: 6.616438356164384 MSS
+rounded largest initial window: 7 MSS
+truly initial window RTT: 100.48500000033528
+truly initial window size: 6.616438356164384
+rounded truly initial window size: 7
+where MSS = 1460
+
+truly initial window size: 7.0
+rounded truly initial window size: 7
+where MSS = 1380
+
+
+217.72.248.109
+average RTT: 35.278250000206754
+IPv4, HTTPS
+average initial window size over restarted connections: 8.743150684931507 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.452054794520548 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 34.938000000081956
+truly initial window size: 8.506849315068493
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.0
+rounded truly initial window size: 9
+where MSS = 1380
+
+
+119.205.211.8
+average RTT: 371.8390000006184
+IPv4, HTTP
+average initial window size over restarted connections: 3.4541095890410958 MSS
+rounded average initial window size over restarted connections: 3 MSS
+largest initial window: 3.4541095890410958 MSS
+rounded largest initial window: 3 MSS
+truly initial window RTT: 371.8390000006184
+truly initial window size: 3.4541095890410958
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.4541095890410958
+rounded truly initial window size: 3
+where MSS = 1460
+
+
+64.156.167.84
+average RTT: 231.13000000044704
+IPv4, HTTP
+average initial window size over restarted connections: 4.0 MSS
+rounded average initial window size over restarted connections: 4 MSS
+largest initial window: 4.0 MSS
+rounded largest initial window: 4 MSS
+truly initial window RTT: 258.0440000006929
+truly initial window size: 4.0
+rounded truly initial window size: 4
+where MSS = 1460
+
+truly initial window size: 4.0
+rounded truly initial window size: 4
+where MSS = 1460
+
+
+2400:cb00:2048:1::6811:7cb4
+average RTT: 32.317934426219495
+IPv6, HTTPS
+average initial window size over restarted connections: 4.854166666666667 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 4.854166666666667 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 32.1480000000447
+truly initial window size: 4.854166666666667
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.729508196721311
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+2a00:1450:4009:810::2013
+average RTT: 30.66687804878485
+IPv6, HTTPS
+average initial window size over restarted connections: 10.563194444444441 MSS
+rounded average initial window size over restarted connections: 11 MSS
+largest initial window: 11.211805555555555 MSS
+rounded largest initial window: 11 MSS
+truly initial window RTT: 29.984000000171363
+truly initial window size: 11.186805555555555
+rounded truly initial window size: 11
+where MSS = 1440
+
+truly initial window size: 13.204098360655738
+rounded truly initial window size: 13
+where MSS = 1220
+
+
+2400:cb00:2048:1::c629:d69a
+average RTT: 30.02500000037253
+IPv6, HTTPS
+average initial window size over restarted connections: 4.704861111111111 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 4.704861111111111 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 28.970999999903142
+truly initial window size: 4.704861111111111
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.55327868852459
+rounded truly initial window size: 6
+where MSS = 1220
+
+
+151.101.60.166
+average RTT: 28.065999999642372
+IPv4, HTTP
+average initial window size over restarted connections: 9.0486301369863 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.0486301369863 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 28.065999999642372
+truly initial window size: 9.0486301369863
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.316643159379408
+rounded truly initial window size: 9
+where MSS = 1418
+
+
+104.156.81.229
+average RTT: 28.587444444600905
+IPv4, HTTP
+average initial window size over restarted connections: 9.604414003044138 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 9.712328767123287 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 28.11600000038743
+truly initial window size: 9.712328767123287
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1418
+
+
+198.148.27.69
+average RTT: 95.65449999971315
+IPv4, HTTPS
+average initial window size over restarted connections: 4.4226027397260275 MSS
+rounded average initial window size over restarted connections: 4 MSS
+largest initial window: 4.4226027397260275 MSS
+rounded largest initial window: 4 MSS
+truly initial window RTT: 96.31300000008196
+truly initial window size: 4.4226027397260275
+rounded truly initial window size: 4
+where MSS = 1460
+
+truly initial window size: 4.720029239766082
+rounded truly initial window size: 5
+where MSS = 1368
+
+
+107.189.40.42
+average RTT: 121.68699999991804
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 121.68699999991804
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+192.169.92.6
+average RTT: 168.10500000044703
+IPv4, HTTP
+average initial window size over restarted connections: 9.330821917808219 MSS
+rounded average initial window size over restarted connections: 9 MSS
+largest initial window: 9.330821917808219 MSS
+rounded largest initial window: 9 MSS
+truly initial window RTT: 168.10500000044703
+truly initial window size: 9.330821917808219
+rounded truly initial window size: 9
+where MSS = 1460
+
+truly initial window size: 9.330821917808219
+rounded truly initial window size: 9
+where MSS = 1460
+
+
+104.80.243.197
+average RTT: 29.32700000051409
+IPv4, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 29.32700000051409
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+2001:8d8:100f:f000::27b
+average RTT: 42.14099999982864
+IPv6, HTTPS
+average initial window size over restarted connections: 13.805555555555555 MSS
+rounded average initial window size over restarted connections: 14 MSS
+largest initial window: 13.805555555555555 MSS
+rounded largest initial window: 14 MSS
+truly initial window RTT: 42.08699999935925
+truly initial window size: 13.805555555555555
+rounded truly initial window size: 14
+where MSS = 1440
+
+truly initial window size: 14.0
+rounded truly initial window size: 14
+where MSS = 1420
+
+
+142.44.142.182
+average RTT: 102.70099999941885
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 102.70099999941885
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a02:26f0:a1:285::24e8
+average RTT: 36.239000000059605
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.18999999947846
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+13.32.142.22
+average RTT: 30.695000000298023
+IPv4, HTTPS
+average initial window size over restarted connections: 12.926027397260274 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.926027397260274 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 30.695000000298023
+truly initial window size: 12.926027397260274
+rounded truly initial window size: 13
+where MSS = 1460
+
+truly initial window size: 12.926027397260274
+rounded truly initial window size: 13
+where MSS = 1460
+
+
+104.82.235.37
+average RTT: 28.43999999947846
+IPv4, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 28.43999999947846
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1460
+
+
+192.124.249.106
+average RTT: 29.860999999567866
+IPv4, HTTP
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 29.860999999567866
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2a02:26f0:8e:28b::2b0a
+average RTT: 31.903000000243384
+IPv6, HTTPS
+average initial window size over restarted connections: 16.0 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 31.509000000543892
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+2a02:26f0:db:285::2b0a
+average RTT: 32.87138888886612
+IPv6, HTTPS
+average initial window size over restarted connections: 15.722222222222221 MSS
+rounded average initial window size over restarted connections: 16 MSS
+largest initial window: 16.0 MSS
+rounded largest initial window: 16 MSS
+truly initial window RTT: 27.40000000037253
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+truly initial window size: 16.0
+rounded truly initial window size: 16
+where MSS = 1440
+
+
+216.243.142.113
+average RTT: 118.42543157894949
+IPv4, HTTP
+average initial window size over restarted connections: 16.641403494381095 MSS
+rounded average initial window size over restarted connections: 17 MSS
+largest initial window: 22.00068493150685 MSS
+rounded largest initial window: 22 MSS
+truly initial window RTT: 117.95999999996275
+truly initial window size: 3.000684931506849
+rounded truly initial window size: 3
+where MSS = 1460
+
+truly initial window size: 3.000684931506849
+rounded truly initial window size: 3
+where MSS = 1460
+
+
+2a00:1450:4009:809::200e
+average RTT: 30.41619999986142
+IPv6, HTTPS
+average initial window size over restarted connections: 12.708333333333334 MSS
+rounded average initial window size over restarted connections: 13 MSS
+largest initial window: 12.708333333333334 MSS
+rounded largest initial window: 13 MSS
+truly initial window RTT: 30.24699999950826
+truly initial window size: 12.708333333333334
+rounded truly initial window size: 13
+where MSS = 1440
+
+truly initial window size: 15.0
+rounded truly initial window size: 15
+where MSS = 1220
+
+
+52.54.146.233
+average RTT: 121.58624999993481
+IPv4, HTTPS
+average initial window size over restarted connections: 10.0 MSS
+rounded average initial window size over restarted connections: 10 MSS
+largest initial window: 10.0 MSS
+rounded largest initial window: 10 MSS
+truly initial window RTT: 121.2960000000894
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+truly initial window size: 10.0
+rounded truly initial window size: 10
+where MSS = 1460
+
+
+2400:cb00:2048:1::6811:70b4
+average RTT: 30.112999999895692
+IPv6, HTTPS
+average initial window size over restarted connections: 4.854166666666667 MSS
+rounded average initial window size over restarted connections: 5 MSS
+largest initial window: 4.854166666666667 MSS
+rounded largest initial window: 5 MSS
+truly initial window RTT: 29.12999999988824
+truly initial window size: 4.854166666666667
+rounded truly initial window size: 5
+where MSS = 1440
+
+truly initial window size: 5.729508196721311
+rounded truly initial window size: 6
+where MSS = 1220
+
+
